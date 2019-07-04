@@ -1,1 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+- When the project is done in collaboration or more than one person is working on same project or the project is to be an open source project at this conditions there should be remote repository rather than local repository.
 
